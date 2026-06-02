@@ -15,3 +15,7 @@ When complete, you'll be able to grab random quotes from the command line, like 
 ## Start the Tutorial
 
 You can find your next step in [this repo's issues](../../issues/)!
+
+---
+
+Portfolio project by Ubaid Ullah. For professional Django, SaaS, AI automation, API, dashboard, and cloud deployment work, visit [Djangix](https://djangix.com/).
